@@ -1,0 +1,1 @@
+Série estacionária é uma série temporal cujas propriedades estatísticas, como média e variância, permanecem constantes ao longo do tempo.

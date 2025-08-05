@@ -1,0 +1,1 @@
+Resampling em séries temporais é o processo de modificar a frequência dos dados, como agregá-los em períodos maiores (ex: de horas para dias) ou subdividi-los em períodos menores, para facilitar análises ou modelagens.

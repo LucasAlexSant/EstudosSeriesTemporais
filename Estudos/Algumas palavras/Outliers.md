@@ -1,0 +1,1 @@
+Outliers em séries temporais são **valores que se destacam por serem muito diferentes do padrão esperado**, ou seja, são pontos fora da curva que destoam do comportamento normal da série ao longo do tempo.

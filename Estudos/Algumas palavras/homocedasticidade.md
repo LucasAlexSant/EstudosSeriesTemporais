@@ -1,0 +1,1 @@
+Homocedasticidade é a propriedade de uma série temporal (ou de resíduos de um modelo) em que a variância permanece constante ao longo do tempo, o que é um pressuposto importante em muitos modelos estatísticos.

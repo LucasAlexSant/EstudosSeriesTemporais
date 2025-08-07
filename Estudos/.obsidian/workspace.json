@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "59cfc3b8219909b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cbe379f5c1b2473",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ccb8f7e5efed91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pontos para levar para o trabalho/Ferramentas para a vetorização das metricas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ferramentas para a vetorização das metricas"
+            }
+          },
+          {
+            "id": "b00dcbc595232fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pontos para levar para o trabalho/🧠 OBJETIVO FINAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧠 OBJETIVO FINAL"
+            }
+          },
+          {
+            "id": "a0de9d85f2f4ad14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Séries Temporais/1.📌Fundamentos/1. Série Temporal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Série Temporal"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64d616203173c6c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f7d6498eaae5d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd777918f46fc8ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "3286fa204eaed78a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "4169b0b7ec069c79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "22600c820cb7d34d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d47f5bec5a0c319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "effdd6a9e1886334",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine Learning/Séries Temporais/1.📌Fundamentos/1. Série Temporal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1. Série Temporal"
+            }
+          },
+          {
+            "id": "1c594d9d1687bdd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine Learning/Séries Temporais/Modelos clássicos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Modelos clássicos"
+            }
+          },
+          {
+            "id": "315e45e010f59bd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35d1228473a5b0f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Learning/Séries Temporais/1.📌Fundamentos/1. Série Temporal.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 1. Série Temporal"
+            }
+          },
+          {
+            "id": "1b3ec0fc20af11bc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b00dcbc595232fe7",
+  "lastOpenFiles": [
+    "Pontos para levar para o trabalho/Ferramentas para a vetorização das metricas.md",
+    "Pontos para levar para o trabalho/🧠 OBJETIVO FINAL.md",
+    "Machine Learning/Séries Temporais/1.📌Fundamentos/1. Série Temporal.md",
+    "Machine Learning/Séries Temporais/1.📌Fundamentos/6. Séries Univariadas e Multivariadas.md",
+    "Pontos para levar para o trabalho",
+    "2025-08-05.md",
+    "Machine Learning/Séries Temporais/1.📌Fundamentos/2. Componentes.md",
+    "Machine Learning/Séries Temporais/1.📌Fundamentos/~syncthing~1. Série Temporal.md.tmp",
+    "Sem título.canvas",
+    "Machine Learning/Séries Temporais/3.🧪Análise exploratória específica/Clusterização.md",
+    "Mapa de estudos.canvas",
+    "Algumas palavras/Mapa de estudos Series temporais.md",
+    "Machine Learning/Séries Temporais/3.🧪Análise exploratória específica/Histogramas por estação ano mês.md",
+    "Machine Learning/Séries Temporais/3.🧪Análise exploratória específica/Plots de série temporal.md",
+    "Machine Learning/Séries Temporais/3.🧪Análise exploratória específica/Deteção de anomalias.md",
+    "Machine Learning/Séries Temporais/3.🧪Análise exploratória específica/Autocorrelação (ACF) e autocorrelação parcial (PACF).md",
+    "Machine Learning/Séries Temporais/1.📌Fundamentos/5. Decomposição.md",
+    "Machine Learning/Séries Temporais/1.📌Fundamentos/4. Frequência e granularidade.md",
+    "Machine Learning/Séries Temporais/1.📌Fundamentos/3. Estacionariedade.md",
+    "imagens/Pasted image 20250803200038.png",
+    "Algumas palavras/Spline.md",
+    "Algumas palavras/Resampling.md",
+    "Algumas palavras/Outliers.md",
+    "Algumas palavras/homocedasticidade.md",
+    "imagens/Pasted image 20250803192659.png",
+    "imagens/Pasted image 20250803192740.png",
+    "imagens/Pasted image 20250803193254.png",
+    "imagens/Pasted image 20250803193448.png",
+    "imagens/Pasted image 20250803195257.png",
+    "imagens/Pasted image 20250803140013.png",
+    "imagens/Pasted image 20250803115652.png",
+    "imagens/Pasted image 20250803200013.png",
+    "Machine Learning/Séries Temporais/2.⚙️ Pré processamento/Parseamento de datas.md",
+    "imagens/Pasted image 20250803193351.png",
+    "Machine Learning/Séries Temporais/2.⚙️ Pré processamento/Criação de features temporais.md",
+    "Machine Learning/Séries Temporais/2.⚙️ Pré processamento/Lags e janelas móveis.md",
+    "Machine Learning/Séries Temporais/2.⚙️ Pré processamento/Suavização.md",
+    "Machine Learning/Séries Temporais/2.⚙️ Pré processamento/Resampling.md",
+    "Machine Learning/Séries Temporais/8.🗂️ Modelos probabilísticos e Bayesian",
+    "Machine Learning/Séries Temporais/7.🧮 Métricas e avaliação",
+    "Machine Learning/Séries Temporais/6.🔮 Deep Learning para séries temporais",
+    "Machine Learning/Séries Temporais/5.⛏️Modelos baseados em Machine Learning",
+    "Machine Learning/Séries Temporais/4.🧠 Modelos Clássicos (estatísticos)",
+    "Machine Learning/Séries Temporais/3.🧪Análise exploratória específica",
+    "Modelos de Séries temporais.md",
+    "Machine Learning/Séries Temporais/2.⚙️ Pré processamento",
+    "Algumas palavras/Estacionária.md",
+    "Machine Learning/Séries Temporais/1.📌Fundamentos",
+    "Machine Learning/Séries Temporais/Algumas palavras.canvas"
+  ]
+}

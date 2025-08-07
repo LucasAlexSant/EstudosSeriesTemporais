@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: estudosCofre
+created: 2025-08-05T00:15:18-03:00
